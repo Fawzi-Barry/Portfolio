@@ -58,11 +58,11 @@ const About = () => {
                 className="text-2xl text-primary font-bold text-center translate-y-[-500%] sm:translate-y-[-0%]  sm:text-2xl sm:mb-2 md:text-left"
                 cursor={true}
                 sequence={[
-                  "A Mern-stack Developer",
+                  "A Mern-Stack Developer",
                   2000,
-                  "A Full-stack Developer",
+                  "A Full-Stack Developer",
                   2000,
-                  "A Front-end Developer",
+                  "A Front-End Developer",
                   2000
                 ]}
                 wrapper="div"
