@@ -160,7 +160,7 @@ const Contact = () => {
             <h3 className="text-xl text-neutral">Social</h3>
             <div className="bg-gray-400 w-10 h-[2px] mx-4"></div>
             <a
-              href="www.linkedin.com/in/fawzibarry"
+              href="https://www.linkedin.com/in/fawzibarry"
               target="blank"
               className="text-3xl text-neutral hover:text-primary hover:-translate-y-1.5 shadow-lg mx-1 duration-300"
             >
