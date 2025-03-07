@@ -268,7 +268,7 @@ const Items = [
   // },
   {
     id: 6,
-    mainImage: "https://ucarecdn.com/7fe4b21c-439a-48a2-b95a-2daf3ccb0606/MarioText0.jpg",
+    mainImage: "https://ucarecdn.com/64daaf83-efe5-49d0-aee2-2401f18543ab/mario.webp",
     img: [
       "https://res.cloudinary.com/du541igfh/image/upload/v1682964283/Blog%20Portfolio%20Gilbert/Project/mario-jump-game/img-1_gpiiro.png",
       "https://res.cloudinary.com/du541igfh/image/upload/v1682964283/Blog%20Portfolio%20Gilbert/Project/mario-jump-game/img-2_iwduig.png",
