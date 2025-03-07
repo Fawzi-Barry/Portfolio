@@ -146,12 +146,12 @@ const Items = [
       "MongoDB",
       "TMDB API",
     ],
-    title: "BertFlix",
+    title: "Fawzi Movies",
     description:
       "Fullstack open source movie application made with MongoDB, Express, React & Nodejs (MERN)",
     category: "personal",
     liveLink: "https://bertflix.vercel.app/",
-    codeLink: "https://github.com/berthutapea/mern-movie",
+    // codeLink: "https://github.com/berthutapea/mern-movie",
   },
   // {
   //   id: 4,
@@ -294,7 +294,7 @@ const Items = [
       "Mario Jump is an endless running game inspired by the famous Google Chrome's T-Rex Dinosaur Game 🦖. The game is built entirely with ReactJS ⚛ and Redux Toolkit 🔧.",
     category: "game",
     liveLink: "https://mariojumpp.vercel.app/",
-    codeLink: "https://github.com/berthutapea/mario-jump-game",
+    // codeLink: "https://github.com/berthutapea/mario-jump-game",
   },
   {
     id: 7,
@@ -330,7 +330,7 @@ const Items = [
       "Fullstack open source quiz application",
     category: "personal",
     liveLink: "https://bertquiz.vercel.app/",
-    codeLink: "https://github.com/berthutapea/react-quiz",
+    // codeLink: "https://github.com/berthutapea/react-quiz",
   },
   // {
   //   id: 8,
@@ -430,7 +430,7 @@ const Items = [
   },
   {
     id: 11,
-    mainImage: "https://ucarecdn.com/16dea000-5862-4f04-9859-da2417b0b88a/clock_hour_watch_time_ios_icon_218542.ico",
+    mainImage: "https://ucarecdn.com/f76b7372-2836-4eb9-8419-a9c799019eae/BlackandWhiteRegularSportsLogo.png",
     img: [
       "https://ucarecdn.com/ea160d4d-0341-4e46-bc6c-65cf67662ae2/Screenshot20250305194057.png",
       "https://ucarecdn.com/71505292-e155-43f3-920a-8a2ec663b8f2/Screenshot20250305194003.png",
