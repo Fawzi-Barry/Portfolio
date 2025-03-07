@@ -21,7 +21,7 @@ const Footer = () => {
           </a>
           <a
             className="inline-block mx-2"
-            href="www.linkedin.com/in/fawzibarry"
+            href="https://www.linkedin.com/in/fawzibarry"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -109,7 +109,7 @@ const Footer = () => {
           <p>
             Developed by{" "}
             <a
-              href="www.linkedin.com/in/fawzibarry"
+              href="https://www.linkedin.com/in/fawzibarry"
               className="text-primary hover:underline"
               target="blank"
             >
