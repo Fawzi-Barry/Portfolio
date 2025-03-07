@@ -268,7 +268,7 @@ const Items = [
   // },
   {
     id: 6,
-    mainImage: "https://res.cloudinary.com/du541igfh/image/upload/v1682964283/Blog%20Portfolio%20Gilbert/Project/mario-jump-game/img-2_iwduig.png",
+    mainImage: "https://ucarecdn.com/7fe4b21c-439a-48a2-b95a-2daf3ccb0606/MarioText0.jpg",
     img: [
       "https://res.cloudinary.com/du541igfh/image/upload/v1682964283/Blog%20Portfolio%20Gilbert/Project/mario-jump-game/img-1_gpiiro.png",
       "https://res.cloudinary.com/du541igfh/image/upload/v1682964283/Blog%20Portfolio%20Gilbert/Project/mario-jump-game/img-2_iwduig.png",
@@ -325,7 +325,7 @@ const Items = [
       "React Firebase Hooks",
       "React Icons",
     ],
-    title: "Bert Quiz",
+    title: "Fawzi Quiz",
     description:
       "Fullstack open source quiz application",
     category: "personal",
@@ -457,7 +457,7 @@ const Items = [
   },
   {
     id: 12,
-    mainImage: "https://ucarecdn.com/6ee6dfd2-4f29-40d4-98bf-cb2f5213a695/weather.png",
+    mainImage: "https://ucarecdn.com/51f5b470-3b2c-4cbc-bc21-325b2c543b45/Screenshot20250305172830.png",
     img: [
 
       "https://ucarecdn.com/51f5b470-3b2c-4cbc-bc21-325b2c543b45/Screenshot20250305172830.png",
