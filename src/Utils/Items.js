@@ -94,7 +94,7 @@ const Items = [
   // },
   {
     id: 3,
-    mainImage: "https://res.cloudinary.com/du541igfh/image/upload/v1684312778/Blog%20Portfolio%20Gilbert/Project/mern-movie/img-1_lcun2a.png",
+    mainImage: "https://ucarecdn.com/b61f1d1d-1d52-4fd0-baf4-61bfadca9d4e/CuteElegantBlackVideoCinematographyBusinessLogo.png",
     img: [
       "https://res.cloudinary.com/du541igfh/image/upload/v1684312778/Blog%20Portfolio%20Gilbert/Project/mern-movie/img-1_lcun2a.png",
       "https://res.cloudinary.com/du541igfh/image/upload/v1684312777/Blog%20Portfolio%20Gilbert/Project/mern-movie/img-2_ar1fex.png",
