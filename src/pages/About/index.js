@@ -34,6 +34,9 @@ const About = () => {
               opacity: 1,
               transition: { duration: 1, delay: 1.25 },
             }}
+          >
+          
+
           </motion.div>
           <motion.div
             className=""
@@ -50,11 +53,11 @@ const About = () => {
                 className="text-2xl text-primary font-bold text-center translate-y-[-500%] sm:translate-y-[-0%]  sm:text-2xl sm:mb-2 md:text-left"
                 cursor={true}
                 sequence={[
-                  "A Mern-Stack Developer",
+                  "A Mern-stack Developer",
                   2000,
-                  "A Full-Stack Developer",
+                  "A Full-stack Developer",
                   2000,
-                  "A Front-End Developer",
+                  "A Front-end Developer",
                   2000
                 ]}
                 wrapper="div"
