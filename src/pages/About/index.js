@@ -34,14 +34,6 @@ const About = () => {
               opacity: 1,
               transition: { duration: 1, delay: 1.25 },
             }}
-          >
-            <img
-              src="https://ucarecdn.com/05af2139-1f3b-4cad-8854-070c8b4bf49b/profile.jpg"
-              alt="Fawzi Barry"
-              className="p-12 w-70 h-70 transform translate-y-[-12%]"
-              title="Fawzi Barry"
-            />
-
           </motion.div>
           <motion.div
             className=""
