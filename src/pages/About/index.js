@@ -36,7 +36,7 @@ const About = () => {
             }}
           >
             <img
-              src="#"
+              src="https://ucarecdn.com/ddefdf88-7f28-457d-9cb1-52e0014e1eeb/profile.jpg"
               alt="Fawzi Barry"
               className="p-12 w-70 h-70 transform translate-y-[-12%]"
               title="Fawzi Barry"
