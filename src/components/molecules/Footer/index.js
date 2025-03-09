@@ -21,7 +21,7 @@ const Footer = () => {
           </a>
           <a
             className="inline-block mx-2"
-            href="https://www.linkedin.com/in/fawzibarry"
+            href="www.linkedin.com/in/fawzibarry"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -45,14 +45,7 @@ const Footer = () => {
           </a>
         </div>
         <div className="hidden  md:flex items-center justify-center mb-6 flex-wrap">
-          <a
-            className="text-xl inline-bloc mx-6 text-neutral"
-            href="#"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Fiverr
-          </a>
+         
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
             href="https://www.upwork.com/freelancers/~019ef7d10eca63d70a"
@@ -63,7 +56,7 @@ const Footer = () => {
           </a>
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
-            href="#"
+            href="https://www.freelancer.com/u/fawzibarry?sb=t"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -71,7 +64,7 @@ const Footer = () => {
           </a>
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
-            href="#"
+            href="https://themeforest.net/user/fawzigood"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -79,7 +72,7 @@ const Footer = () => {
           </a>
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
-            href="#"
+            href="https://www.remotehub.com/fawzi.barry"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -87,7 +80,7 @@ const Footer = () => {
           </a>
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
-            href="#"
+            href="https://dribbble.com/fawzi_barry"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -95,11 +88,11 @@ const Footer = () => {
           </a>
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
-            href="#"
+            href="https://arc.dev/@fawzibarry?preview=1"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Resume
+            Arc
           </a>
         </div>
 
@@ -109,7 +102,7 @@ const Footer = () => {
           <p>
             Developed by{" "}
             <a
-              href="https://www.linkedin.com/in/fawzibarry"
+              href="www.linkedin.com/in/fawzibarry"
               className="text-primary hover:underline"
               target="blank"
             >
