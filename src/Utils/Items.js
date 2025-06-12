@@ -457,6 +457,41 @@ const Items = [
   },
   {
     id: 12,
+    mainImage: "https://ucarecdn.com/08ebd7d0-0019-4a1e-a0fe-1569ecda44d0/BlackandWhiteCircleBusinessLogo.png",
+    img: [
+
+      "https://ucarecdn.com/d4640c86-0174-4423-9911-ab3784c87493/Screenshot20250612145000.png",
+      "https://ucarecdn.com/face5d78-cd33-46e1-a656-cf9e57067906/Screenshot20250612144738.png",
+      "https://ucarecdn.com/a3c727fd-328c-4c6c-baa9-79074f4a4d59/Screenshot20250612144724.png",
+    ],
+    features: [
+      "Task creation, editing, and deletion (CRUD operations)",
+      "Task categorization: To Do, In Progress, Completed",
+      "Priority levels (e.g., High, Medium, Low)",
+      "Dashboard overview of task statistics",
+      "Real-time chart visualization by priority (Chart.js)",
+      "Task filtering by status and date (e.g., "Today", "All Tasks")",
+      "Visual task counters for each status",
+      "User-friendly, responsive interface",
+    ],
+    technologies: [
+      "React.js",
+      "JavaScript",
+      "Express.js",
+       "MongoDB",
+       "Chart.js",
+       "Vercel",
+       "RESTful APIs",
+    ],
+    title: "TaskMe",
+    description:
+      "A full-stack web application that helps users manage daily tasks through a cloud-based dashboard. Users can add, update, and track tasks by status and priority, with real-time visual insights. The platform offers an intuitive interface, dynamic filtering, and performance-optimized deployment.",
+    category: "business",
+    liveLink: "https://to-do-list-frontend-brown.vercel.app",
+    codeLink: "@",
+  },
+    {
+    id: 13,
     mainImage: "https://ucarecdn.com/51f5b470-3b2c-4cbc-bc21-325b2c543b45/Screenshot20250305172830.png",
     img: [
 
